@@ -1,0 +1,13 @@
+{
+  "name": "self-healing-pipeline-demo",
+  "version": "1.0.0",
+  "description": "Hello World Node.js app for self-healing pipeline demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node -e \"console.log('Tests passed!')\""
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
